@@ -3,9 +3,10 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
+    
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build",
+    "build": "npm i --no-save sharp && bun run build",
     "preview": "astro preview",
     "astro": "astro"
   },
