@@ -18,8 +18,13 @@
     "skipLibCheck": true,
     "composite": true,
     "downlevelIteration": true,
-    "allowSyntheticDefaultImports": true
+    "allowSyntheticDefaultImports": true,
+    "plugins": [
+      {
+        "name": "@astrojs/ts-plugin"
       }
-    }
+    ]
+  }
+}
     
   
