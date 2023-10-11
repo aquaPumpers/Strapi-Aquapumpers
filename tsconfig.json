@@ -5,7 +5,7 @@
     "strictNullChecks": true,
     "jsx": "react-jsx",
     "jsxImportSource": "react",
-    "types": ["bun-types", "dom"],
+    "types": ["bun-types"],
     "lib": ["ESNext", "dom"],
     "module": "esnext",
     "target": "esnext",
