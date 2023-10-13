@@ -1,0 +1,7 @@
+nvm use 18
+npm install -g bun 
+npm i --no-save sharp && bun run build
+bun update
+bun upgrade 
+bun upgrade --canary
+bun --bun run build
